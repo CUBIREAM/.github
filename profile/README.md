@@ -1,4 +1,4 @@
-[![CUBIREAM](https://github.com/CUBIREAM/.github/blob/main/asset/repo_social_headline.png?raw=true)](https://cubiream.com)
+[![CUBIREAM](https://github.com/CUBIREAM/.github/blob/main/asset/repo_social_hollow.png?raw=true)](https://cubiream.com)
 ---
 # CUBIREAM LLC
 キュビリームへようこそ。
