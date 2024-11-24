@@ -1,6 +1,6 @@
 # CUBIREAM LLC
 
-[![GitHub Organization](/assets/repo_social.png)]
+[![GitHub Organization](https://github.com/CUBIREAM/.github/blob/main/asset/repo_social.png?raw=true)]
 [![CUBIREAM](https://cubiream.com)](https://cubiream.com)
 
 ---
