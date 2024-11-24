@@ -1,9 +1,9 @@
-# CUBIREAM LLC
-
-[![GitHub Organization](https://github.com/CUBIREAM/.github/blob/main/asset/repo_social.png?raw=true)]
-[![CUBIREAM](https://cubiream.com)](https://cubiream.com)
-
+[![CUBIREAM](https://github.com/CUBIREAM/.github/blob/main/asset/repo_social.png?raw=true)](https://cubiream.com)
 ---
+# CUBIREAM LLC
+キュビリームへようこそ。
+
+ソフトウェア開発とかをゆるゆるやっていきます。
 
 <!-- ## 🌟 Who We Are
 
